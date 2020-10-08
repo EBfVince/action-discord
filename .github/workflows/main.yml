@@ -19,4 +19,4 @@ jobs:
         DISCORD_MULTILINE: 1
       uses: EBfVince/action-discord@master
       with:
-        args: 'Release notes:\n- 🚀 New features\n- ✨ Cool stuff'
+        args: 'Release notes:\n- 🚀 New features\n- ✨ Cool stuff\n- 🎨 Salut <@520303597234159618> <:vince:752545539974758400>'
